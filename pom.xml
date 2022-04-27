@@ -13,7 +13,7 @@
 	<artifactId>Spring_docker</artifactId>
 	<version>0.0.1</version>
 	<name>Spring_docker</name>
-	<description>Demo project for Spring Boot to publish docker</description>
+	<description>Demo project for Spring Boot to publish docker using git hub -git</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
