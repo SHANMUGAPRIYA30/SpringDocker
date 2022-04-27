@@ -9,6 +9,6 @@ public class HomeController {
 	@GetMapping("/")
 	public String home() {
 		
-		return "Creating springboot project and docker file and pushing it to docker hub";
+		return "Creating springboot project and docker file and pushing it to git hub";
 	}
 }
